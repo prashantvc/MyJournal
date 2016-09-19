@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJournal", "MyJournal\MyJo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJournal.UWP", "MyJournal\MyJournal.UWP\MyJournal.UWP.csproj", "{D83D8EDF-0056-43A4-84E4-B1D90401A0C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJournal.Droid", "MyJournal.Droid\MyJournal.Droid.csproj", "{E708B929-E935-4804-9E9B-38FD55EB52FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyJournal.Droid", "MyJournal\MyJournal.Droid\MyJournal.Droid.csproj", "{E708B929-E935-4804-9E9B-38FD55EB52FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
